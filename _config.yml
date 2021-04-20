@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Astro Crypto"
 description: "Bitcoin & Crypto-currency Financial Astrology."
-baseurl: "/AstroCrypto"
-url: "https://astro-cryptos.github.io/es/"
+baseurl: "/es"
+url: "https://astro-cryptos.github.io/"
 logo: "images/Logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
