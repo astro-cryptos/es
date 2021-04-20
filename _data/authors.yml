@@ -1,0 +1,12 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Astro Crypto:
+  name: Astro Crypto
+  picture: /images/bio-photo-2.jpg
+  twitter: "@astrocrypto_"
+  links:
+    - title: Twitter
+      url: https://twitter.com/@astrocrypto_es
+      icon: fab fa-twitter-square
+
