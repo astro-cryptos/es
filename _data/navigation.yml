@@ -4,9 +4,7 @@
   url: /
 - title: Posts
   url: /posts/
-- title: Tags
-  url: /tags/
-- title: Search
+- title: Buscar
   url: /search/
 - title: Ingles
   url: https://astro-cryptos.github.io/
