@@ -1,5 +1,5 @@
 ---
-title: "Carta Natal del Bitcoin"
+title: "Que es Zilliqa?"
 categories:
   - Bitcoin
 tags:

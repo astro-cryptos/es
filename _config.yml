@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Astro Crypto"
-description: "Bitcoin & Crypto-currency Financial Astrology."
+description: "Bitcoin, Criptomonedas y Astrología"
 baseurl: "/es"
 url: "https://astro-cryptos.github.io/"
 logo: "images/Logo.png"
