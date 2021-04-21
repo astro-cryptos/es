@@ -1,5 +1,5 @@
 ---
-title: "Que es Zilliqa?"
+title: "Carta Natal del Bitcoin"
 categories:
   - Bitcoin
 tags:
@@ -9,3 +9,4 @@ tags:
 last_modified_at: 2021-04-19T14:25:52-05:00
 ---
 
+En construccion
