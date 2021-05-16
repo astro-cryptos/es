@@ -39,6 +39,5 @@ Esto se soluciona anteponiendo a la entrada "x" (en el ejemplo "cara" o "cruz"),
    La propiedad 1) asegura que solo hay una solución y la 2) hace imposible encontrarla.
 
 3. **Puzzle friendly**:
-
     Para cada salida Hash "y" dentro del rango de valores de "Y" y una entrada "x" no es factible encontrar un valor "k", que resultará en h(kx)=y. Esta propiedad se diferencia de la 2) en que la "k" en este caso es dada, nos dan el PUZZLE-ID. Y segundo, se menciona un rango de valores "Y". Por lo que se podría reformular diciendo, que para resolver el puzzle, se debe encontrar una "x" que genere un resultado que caiga en el intervalo de "Y". Si hay más posibles resultados de "y", hay más posibles soluciones "x", por lo que hay más probabilidades de encontrar una. Es decir, que la dificultad del puzzle depende directamente del tamaño que tiene el rango "Y" en ese momento y no nos extenderíamos buscando la solución "x" hasta un tiempo infinito si la dificultad no es máxima. Esta propiedad hace posible la minería. Es la base de la blockchain.
 
