@@ -94,9 +94,14 @@ author:
   picture:
   email: astrocryptoar@gmail.com
   twitter: astrocrypto_es
-  links:
-    - title:
-      url:
-      icon:
-
+footer_links:
+    - title: Twitter
+      url: https://twitter.com/astrocrypto_es
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/astro.crypto
+      icon: fab fa-instagram
+    - title: Youtube
+      url: https://www.youtube.com/channel/UC_ad7_TR38PBjsD87RRPQgg
+      icon: fab fa-youtube-square
 
