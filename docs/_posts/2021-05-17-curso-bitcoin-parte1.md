@@ -1,5 +1,5 @@
 ---
-title: "Curso sobre Bitcoin y Criptomonedas. Funciones Hash. Parte I"
+title: "Curso sobre Bitcoin y Criptomonedas. Parte I. Funciones Hash. "
 categories:
   - Bitcoin
 tags:
