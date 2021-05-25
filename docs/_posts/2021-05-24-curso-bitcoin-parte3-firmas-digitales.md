@@ -22,5 +22,5 @@ Para que una firma sea digital hay tres cosas a tener en cuenta:
 
 3) **Verificación**: este algoritmo comprueba la autenticidad del mensaje al verificarlo junto con la firma y la clave pública.
 
-Estos tres algoritmos constituyen el esquema de firma digital. Bitcoin y Ethereum, utilizan un algoritmo específico para verificar transacciones, conocido como el algoritmo de firma digital de curva elíptica (ECDSA).La firma digital se crea utilizando su clave privada y este es un procedimiento fuera de línea, solo necesita su clave privada (por ejemplo, al crear billeteras frías).
+Estos tres algoritmos constituyen el esquema de firma digital. Bitcoin y Ethereum, utilizan un algoritmo específico para verificar transacciones, conocido como el algoritmo de firma digital de curva elíptica (ECDSA).
 
