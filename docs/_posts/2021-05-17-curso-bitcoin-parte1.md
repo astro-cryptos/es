@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2021-05-17T14:25:52-05:00
 ---
 
-# Funciones HASH
+# Funciones Hash
 Una función Hash es una función matemática que tiene 3 propiedades:
 
 1. Puede tomar cualquier cadena de cualquier tamaño como entrada.
